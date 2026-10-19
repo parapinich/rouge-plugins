@@ -1,0 +1,13 @@
+{
+  "name": "rouge-plugins",
+  "owner": {
+    "name": "Rouge"
+  },
+  "plugins": [
+    {
+      "name": "business-due-diligence",
+      "source": "./business-due-diligence",
+      "description": "Public-records due diligence on companies and business counterparts, with a sourced risk report."
+    }
+  ]
+}

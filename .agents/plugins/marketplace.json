@@ -1,0 +1,20 @@
+{
+  "name": "rouge-plugins",
+  "interface": {
+    "displayName": "Rouge Plugins"
+  },
+  "plugins": [
+    {
+      "name": "business-due-diligence",
+      "source": {
+        "source": "local",
+        "path": "./business-due-diligence"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
